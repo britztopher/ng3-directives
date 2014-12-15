@@ -1,0 +1,27 @@
+{
+  "name": "ng3-directives",
+  "version": "0.0.0",
+  "authors": [
+    "britztopher <britztopher@gmail.com>"
+  ],
+  "description": "ng3 directive example",
+  "main": "index.html",
+  "keywords": [
+    "directive",
+    "ng3-charts",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.6",
+    "ng3-charts": "~0.0.3",
+    "bootstrap": "~3.3.1"
+  }
+}
